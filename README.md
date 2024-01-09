@@ -8,7 +8,7 @@
 
 # <mark>Chapter 1 : Introduction</mark>
 
-### <mark>1.1 Environment Setup</mark>
+## <mark>1.1 Environment Setup</mark>
 
 * 🪟 Setup
     
@@ -34,3 +34,30 @@
                 
 
 Now your VS Code Setup is ready. You can start coding in VS Code for C programming. If you face any problem, try to solve it by yourself. It will help you to learn more.
+
+
+
+
+
+## <mark>1.2 Basic Syntax</mark>
+
+***In 1972, Dennis Ritchie at Bell Labs developed C programming language. C is the most widely used computer language.***
+
+* Open VS Code ➡️ Create a new file ➡️ Hello\_World.c.
+
+Now, Write your first program in C.
+
+```c
+#include<stdio.h>
+int main()
+{
+    printf("Hello World\n");
+    return 0;
+}
+```
+
+Save this program & run it. Then you can see the output of the program in the terminal.
+
+```markdown
+> Hello World
+```
