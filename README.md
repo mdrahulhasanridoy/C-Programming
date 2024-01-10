@@ -43,7 +43,7 @@ Now your VS Code Setup is ready. You can start coding in VS Code for C programmi
 
 ***In 1972, Dennis Ritchie at Bell Labs developed C programming language. C is the most widely used computer language.***
 
-* Open VS Code ➡️ Create a new file ➡️ Hello\_World.c.
+* Open VS Code ➡️ Create a new file ➡️ Hello\_World.c
 
 Now, Write your first program in C.
 
