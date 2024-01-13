@@ -61,3 +61,7 @@ Save this program & run it. Then you can see the output of the program in the te
 ```markdown
 > Hello World
 ```
+
+## `#include<stdio.h>`
+
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>#include</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>preprocessor directive</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>#</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>hash</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>stdio.h</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>standard input output header file</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>std</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>standard</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>i</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>input</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>o</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>output</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p>.h</p></td><td colspan="1" rowspan="1"><p><strong><em>header file extension</em></strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>&lt;&gt;</strong></p></td><td colspan="1" rowspan="1"><p><strong><em>angle brackets</em></strong></p></td></tr></tbody></table>
